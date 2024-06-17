@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAutomationPOC", "WpfAuto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UiTests", "UiTests\UiTests.csproj", "{0690FB55-6733-4F4D-B1EA-5E110CB20B7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlaUI", "FlaUI\FlaUI.csproj", "{C810265B-C7CB-41F6-9D26-DDD61DD6A1D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{0690FB55-6733-4F4D-B1EA-5E110CB20B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0690FB55-6733-4F4D-B1EA-5E110CB20B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0690FB55-6733-4F4D-B1EA-5E110CB20B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C810265B-C7CB-41F6-9D26-DDD61DD6A1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C810265B-C7CB-41F6-9D26-DDD61DD6A1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C810265B-C7CB-41F6-9D26-DDD61DD6A1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C810265B-C7CB-41F6-9D26-DDD61DD6A1D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
